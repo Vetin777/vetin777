@@ -1,6 +1,5 @@
 ### Hi there 👋
- Hi there 👋
-## Oii! Sou João Victor 👋
+## Oi! Sou João Victor 👋
 
 - Sou graduando em Sistemas para Internet e aqui você irá acompanhar a minha rotina no mundo da tecnologia e da programação! ⌨
 
